@@ -1,4 +1,7 @@
 # Algebraic-Expression-Calculator
+
+Источник: [senjun.ru](https://senjun.ru/courses/python/practice/python_calculator/)
+##
 Практика. Калькулятор алгебраических выражений
 Описание проекта
 
